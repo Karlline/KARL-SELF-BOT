@@ -1,3 +1,3 @@
 # KARL-SELF-BOT
 
-# HA??
+ゆっくり書いていく
